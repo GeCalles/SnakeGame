@@ -1,2 +1,2 @@
 # SnakeGame
-Simple snake game 
+OOP snake game with tkinter gui. 
